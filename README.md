@@ -10,3 +10,4 @@
 + 根据一个视频风格，将里面的人物替换，生成一个新的视频，或者根据已有的创意，生成相同的创意【【男巫ZachKing】2026最佳魔术！】 https://www.bilibili.com/video/BV1BuHC6rEuX/?share_source=copy_web&vd_source=2cf8cc3ae63eee56456594b4bb6cc7e3
 + 提取视频中的全量文字，并生成总结，需要去思考：如果视频内容很长怎么办
 + 需求分支合并到develop分支时，存在冲突，解决冲突的事情能否交给AI去做？
++ 人宠写真照，目前人们养宠的越来越多，给一个人和宠物的照片，生成一张高清图片
